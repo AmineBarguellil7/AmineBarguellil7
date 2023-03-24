@@ -4,7 +4,7 @@
 <img   width="400" align="right" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg" alt="img">
 
 # 💫 About Me:
-🔭 I’m currently working on ClubMaster web application<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning  Mern stack and Django<br>💬 How to reach me amine.barguellil@esprit.tn<br>⚡ Fun fact
+🔭 I’m currently working on ClubMaster web application<br><br>🌱 I’m currently learning  Mern stack and Django<br>💬 How to reach me amine.barguellil@esprit.tn<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
