@@ -1,7 +1,7 @@
 ![image](https://github.com/AmineBarguellil7/AmineBarguellil7/assets/92181188/68332978-fc10-4b70-84b4-576e638b2304)<h1 align="center">Hi 👋, I'm Amine Barguellil</h1>
 <h3 align="center">A passionate student web developer from Tunisia</h3>
 
-<img   width="400" align="right" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg" alt="img">
+<img   width="400" align="right" src="[https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)" alt="img">
 
 # 💫 About Me:
 🔭 I’m currently working on ClubMaster web application<br>🌱 I’m currently learning  Mern stack and Django<br>💬 How to reach me amine.barguellil@esprit.tn
