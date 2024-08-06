@@ -4,7 +4,7 @@
 <img   width="400" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="img">
 
 # 💫 About Me:
-🔭 I am a full-stack web developer/engineer always eager to learn new things. <br>I'm not just interested in the technical side but also how technology impacts people. <br>Now, I'm excited to explore AI and add smart features to web apps.<br><br>💬 How to reach me amine.barguellil@esprit.tn
+🔭 I am a full-stack web developer/engineer always eager to learn new things. <br>I'm interested in the technical aspects of software development and how it affects people's lives. <br>Now, I'm excited to explore AI and add smart features to web apps.<br><br>💬 How to reach me amine.barguellil@esprit.tn
 
 
 ## 🌐 Socials:
