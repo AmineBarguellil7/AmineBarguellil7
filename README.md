@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amine Barguellil</h1>
-<h3 align="center">A passionate student web developer from Tunisia</h3>
+<h3 align="center">A passionate web developer from Tunisia with a good understanding of web technologies and currently exploring AI to integrate innovative AI solutions into web applications</h3>
 
 <img   width="400" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="img">
 
 # 💫 About Me:
-🔭 I’m currently working on ClubMaster web application<br>🌱 I’m currently learning  Mern stack and Django<br>💬 How to reach me amine.barguellil@esprit.tn
+🔭 I am a full-stack web developer/engineer always eager to learn new things. I'm not just interested in the technical side but also how technology impacts people. Now, I'm excited to explore AI and add smart features to web apps.<br>💬 How to reach me amine.barguellil@esprit.tn
 
 
 ## 🌐 Socials:
