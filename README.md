@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amine Barguellil</h1>
 <h3 align="center">A passionate web developer from Tunisia with a good understanding of web technologies and currently exploring AI to integrate innovative AI solutions into web applications</h3>
 
-<img   width="400" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="img">
 
 # 💫 About Me:
 🔭 I am a full-stack web developer/engineer always eager to learn new things. <br>I'm interested in the technical aspects of software development and how it affects people's lives. <br>Now, I'm excited to explore AI and add smart features to web apps.<br><br>💬 How to reach me amine.barguellil@esprit.tn
+
+<img   width="400" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="img">
 
 
 ## 🌐 Socials:
