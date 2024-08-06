@@ -3,8 +3,8 @@
 
 
 # 💫 About Me:
-<img   width="400" height="190" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="img">
-🔭 I am a full-stack web developer/engineer always eager to learn new things. <br>I'm interested in the technical aspects of software development and how it affects people's lives. <br>Now, I'm excited to explore AI and add smart features to web apps.<br><br>💬 How to reach me amine.barguellil@esprit.tn
+<img   width="350" height="190" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="img">
+🔭 I am a full-stack web developer/engineer always eager to learn new things. <br>I'm interested in the technical aspects of software development and how it affects people's lives. <br>Now, I'm excited to explore AI and add smart features to web apps.<br><br>💬 How to reach me : amine.barguellil@esprit.tn
 
 
 
